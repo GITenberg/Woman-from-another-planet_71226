@@ -1,0 +1,35 @@
+_repo: Woman-from-another-planet_71226
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gogos, Basil
+    gutenberg_agent_id: '56131'
+    url: http://www.gutenberg.org/2009/agents/56131
+creator:
+  author:
+    agent_name: Long, Frank Belknap
+    birthdate: 1903
+    deathdate: 1994
+    gutenberg_agent_id: '25911'
+    url: http://www.gutenberg.org/2009/agents/25911
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Belknap_Long
+description: ''
+gutenberg_issued: '2023-07-19'
+identifiers:
+  gutenberg: '71226'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=osu.32435053364972&view=1up&seq=1
+pgterms:marc905: 20221126070448long
+pgterms:marc906: '1960'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bChariot Books, $c1960.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Woman from another planet
+url: http://www.gutenberg.org/ebooks/71226
