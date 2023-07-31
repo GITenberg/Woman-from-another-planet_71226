@@ -5,6 +5,9 @@ contributor:
     agent_name: Gogos, Basil
     gutenberg_agent_id: '56131'
     url: http://www.gutenberg.org/2009/agents/56131
+covers:
+- cover_type: archival
+  image_path: 71226-h/images/bcover.jpg
 creator:
   author:
     agent_name: Long, Frank Belknap
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25911
     wikipedia: https://en.wikipedia.org/wiki/Frank_Belknap_Long
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71226#Woman-from-another-planet
 gutenberg_issued: '2023-07-19'
 identifiers:
   gutenberg: '71226'
